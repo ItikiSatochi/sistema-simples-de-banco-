@@ -1,5 +1,4 @@
 menu = """
-[4] Usuário 
 [3] Depositar 
 [2] Sacar
 [1] Extrato
